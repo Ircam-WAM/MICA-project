@@ -4,7 +4,7 @@ title: Seminar
 
 
 # 2019--202: "Faire de la musique ensemble"
-**EHESS, 3e mecredi du mois, 10h--13h*  
+**EHESS, 3e mecredi du mois, 10h--13h**  
   
 
 
