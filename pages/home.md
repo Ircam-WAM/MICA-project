@@ -18,8 +18,8 @@ Welcome to the webpage of the MICA project! <br>
 
 <p align="center">
 <br><br>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR_logo240.png" width="90"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/ANR_logo240.png" width="120"> </a>
 <a target="_blank" href="https://www.w3schools.com"> <img  src="../images/LOGO.Ircam.jpg" width="130"> </a>
-<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CNRSlogo.svg.png" width="140"> </a>
+<a target="_blank" href="https://www.w3schools.com"> <img  src="../images/CNRSlogo.svg.png" width="100"> </a>
 <br><br><br><br>
 </p>
