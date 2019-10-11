@@ -26,7 +26,12 @@ is a postdoc within the project. She's a cognitive psychologist and she's awsome
 ####Pierre Saint-Germier
 is a postdoc within the project. He's a philosopher and he's just okay.
 <br>
-[webpage](https://www.ircam.fr/person/pierre-saint-germier/)
+[webpage](https://www.ircam.fr/person/pierre-saint-germier
+
+---
+<img src="../images/ada.jpg" width="320" style="float:left" hspace="10">
+####Emmanuelle Majeau-Bettez is a visiting PhD student. She's a musicologist and she's awesome.
+
 <br><br><br>
 <br>
 <br>
