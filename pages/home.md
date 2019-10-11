@@ -1,12 +1,12 @@
-Title: Improtech Paris - Philly 2017 
+Title: The MICA Project website 
 Status: hidden 
 save_as: index.html
 Date: 2017-10-23 10:20
-Tags: ircam, improvisation, performance, human machine interaction, improtech, omax, artificial intelligence, digital intelligence, machine musicianship
-Authors: Gerard Assayag
-Summary: Improtech Paris - Philly 2017 gathers scholars, technologists, musicians, makers, around the idea of musical improvisation with digital intelligence 
+Tags: improvisation, coordination, music performance, joint action, cognitive science, empirical musicology, collective intentionality
+Authors: Guillaume Pellerin, Pierre Saint-Germier
+Summary: Official webpage of the MICA project with infos about the research, publications, events, etc.
 
-#### Workshop - Festival, December 11th - 13th, 2017 at the University of Pennsylvania 
+#### The MICA project -- Musical Improvisation and Collective Action 
 <br>
 <br>
 **11th - 13th**, **Workshop** keynotes, presentations, demos and performances at U.Penn, Drexel U. and ICA,  from 9:30 - 18:00  
