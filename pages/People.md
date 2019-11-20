@@ -46,10 +46,3 @@ is a postdoc within the project. He's a philosopher and he's just okay.
 <br>
 <br><br><br>
 
----
-
-<p align="center">
-   <br><br>
-  <img src="../images/IKPoster_frag16.png" width="300">
-   <br><br>
-</p>
