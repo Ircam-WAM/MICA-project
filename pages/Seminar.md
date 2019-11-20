@@ -9,12 +9,3 @@ title: Seminar
 
 
 
-
----
-
-<p align="center">
-   <br><br>
-  <img src="../images/IKPoster_frag10.png" width="300">
-   <br><br>
-</p>
-
