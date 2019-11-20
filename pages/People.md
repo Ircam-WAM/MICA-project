@@ -8,7 +8,7 @@ title: People
 
 <img src="../images/clement.canonne.gif" width="320" style="float:left" hspace="10">
 ####Clément Canonne
-is the PI of the project. He is a musicologists and he is awsome.
+is the PI of the project. He is a musicologist and he is awsome.
 <br>
 [webpage](http://apm.ircam.fr/membre/CC/)
 
