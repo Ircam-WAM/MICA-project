@@ -1,8 +1,19 @@
-title: Publications
+title: Outputs
 
 ---
 
-It's coming!
+Books
 
 ---
 
+Papers
+
+---
+
+Chapters
+
+---
+
+Conferences
+
+--
